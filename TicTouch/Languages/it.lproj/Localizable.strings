@@ -1,0 +1,125 @@
+"Head" = "Testa";
+"Eye" = "Occhio";
+"Nose" = "Naso";
+"Hand" = "Mano";
+"Leg" = "Gamba";
+"Mouth" = "Bocca";
+"Arm" = "Braccio";
+"Shoulder" = "Spalla";
+"Foot" = "Piede";
+
+"NeckEx" = "Esercizio per il collo";
+"TenseNeck" = "Collo teso";
+"Posture" = "Postura corretta";
+"EyeEx" = "Esercizio per gli occhi";
+"BrowCont" = "Contrazione delle sopracciglia";
+"NasalBreath" = "Respirazione nasale";
+"NoseTense" = "Tensione del naso";
+"HandEx" = "Esercizio per le mani";
+"TightFists" = "Pugni stretti";
+"HandPush" = "Spinta della mano";
+"HandClasp" = "Mani intrecciate";
+"LegEx" = "Esercizio per le gambe";
+"TightKnees" = "Ginocchia strette";
+"HeelsWeight" = "Peso sui talloni";
+"MouthEx" = "Esercizio per la bocca";
+"JawClench" = "Serraggio della mascella";
+"LipClose" = "Chiusura delle labbra";
+"InterlacedArms" = "Braccia intrecciate";
+"ThighPush" = "Spinta sulle cosce";
+"LowShoulders" = "Spalle abbassate";
+"CrossFeet" = "Posizione piedi incrociati";
+"ToeLift" = "Sollevamento delle dita dei piedi";
+
+"TenseNeckDesc" = "Tendi il collo mentre abbassi le spalle.";
+"ChooseExercise" = "Scegli il tuo esercizio!";
+"Start" = "Inizia";
+"ChinChest" = "Mantieni il collo teso in posizione, spingi il mento verso il petto e respira profondamente.";
+"GoodPosture" = "Mantieni una buona postura (siediti dritto), guarda avanti e tira indietro il collo e la testa.";
+"FocusBlink" = "Focalizzati su un punto nella stanza e sbatti le palpebre in modo controllato.";
+"BrowBreathe" = "Contrai le sopracciglia e usa una respirazione controllata.";
+"InhaleExhale" = "Inspira ed espira attraverso la bocca mentre tendi il naso e le sopracciglia.";
+"PullNose" = "Tira leggermente il naso verso il basso, tieni le labbra premute insieme e respira profondamente.";
+"HandsLegs" = "Metti le mani sulle gambe, premendo se necessario.";
+"FistsPress" = "Stringi i pugni, unisci le mani e premi i palmi contro i fianchi o le cosce.";
+"PushObject" = "Spingi la mano contro un oggetto, contraendo i muscoli opposti al movimento del tic.";
+"HandsStomach" = "Unisci le mani davanti allo stomaco e premi.";
+"HeelsFloor" = "Premi i talloni contro il pavimento.";
+"KneesTogether" = "Premi forte le ginocchia l'una contro l'altra.";
+"StandHeels" = "Stai in piedi con il peso sui talloni e le ginocchia bloccate.";
+"LipsTeeth" = "Stringi le labbra, unisci i denti e premi la lingua contro il palato.";
+"JawLips" = "Serrando delicatamente la mascella, premi le labbra insieme.";
+"CloseTeeth" = "Chiudi le labbra e premi delicatamente i denti insieme.";
+"FingersArms" = "Intreccia le dita, abbassa le spalle e spingi le braccia contro i fianchi.";
+"ElbowsHips" = "Spingi le mani sulle cosce e porta i gomiti verso i fianchi.";
+"ShouldersDown" = "Abbassa le spalle e spingi le braccia contro i fianchi.";
+"BendKnees" = "Piega le ginocchia, avvicina i piedi a te, premi le piante dei piedi sul pavimento e incrocia l'altro piede dietro la caviglia.";
+"SoleToes" = "Premi la pianta del piede sul pavimento, allarga le dita e sollevale verso l'alto.";
+
+"Face" = "Faccia";
+"Body" = "Corpo";
+
+"SelectedPart" = "Parte selezionata: ";
+"Confirm" = "Conferma";
+"GoBack" = "Ritorna agli esercizi";
+"Start" = "Inizia";
+
+"SelectedDate" = "Data selezionata: ";
+
+"Settings" = "Impostazioni";
+"Profile" = "Profilo";
+"EnterName" = "Seleziona il tuo nome!";
+"Edit" = "Modifica";
+"Done" = "Fatto";
+"Language" = "Lingua";
+"AccessibilitySettings" = "Impostazioni di accessibilità";
+"Interactions" = "Interazioni";
+"YourName" = "Il tuo nome";
+"Language" = "Lingua";
+"Gesture" = "Interazione";
+"CurrentL" = "Lingua inserita";
+"Italian" = "Italiano";
+"English" = "Inglese";
+
+"None" = "Nessuno";
+"Buttons" = "Pulsanti";
+"Swipe" = "Scorrimento";
+"Vocal" = "Vocale";
+
+"Charts" = "Grafici";
+
+"SelectLang" = "Seleziona la lingua";
+"SelectGesture" = "Seleziona interazione";
+
+"FirstMedText" = "Resta fermo";
+"SecondMedText" = "Concentrati sul tuo respiro";
+"ThirdMedText" = "Sii presente";
+"FourthMedText" = "Respira profondamente";
+"MeditationSuccess" = "Ottimo Lavoro!";
+"MeditationContinue" = "Vai all'esercizio";
+
+
+"SetTimer" = "Imposta il timer: ";
+"Managed" = "Controllati";
+"NotManaged" = "Non controllati";
+"Seconds" = "Secondi";
+
+"NoData" = "Nessun dato trovato.";
+
+"FirstPageTitle" = "Benvenuto su TicTouch!";
+"FirstPageDescription" = "Questa app ha lo scopo di aiutarti con l'allenamento HRT per la sindrome di Tourette, in conformità con le linee guida HRT ed ERP.";
+
+"SecondPageTitle" = "Inizia un Esercizio";
+"SecondPageDescription" = "Per iniziare con gli esercizi, devi prima indicare in quale parte del corpo si trova il tic che vuoi allenare. Seleziona la parte del corpo. Premi 'Conferma' per confermare la parte del corpo.";
+
+
+"ThirdPageTitle" = "Seleziona l'Esercizio";
+"ThirdPageDescription" = "Seleziona l'esercizio suggerito dal tuo terapeuta. Ti allenerai su quello in seguito. Se non ricordi come eseguirlo, premi sull'icona 'i' in alto a destra per vedere una dimostrazione.";
+
+"FourthPageTitle" = "Allenamento";
+"FourthPageDescription" = "Prima di iniziare l'esercizio, l'app ti aiuta con la fase di preparazione. Dopo esserti preparato, puoi procedere con l'esercizio vero e proprio.Puoi selezionare tra diversi metodi di input per registrare i tuoi tic.";
+
+"FifthPageTitle" = "Dati";
+"FifthPageDescription" = "Infine, qui puoi rivedere i dati degli esercizi che hai svolto e consultarli durante la terapia.";
+
+"Name" = "Nome";
